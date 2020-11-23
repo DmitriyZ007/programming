@@ -1,6 +1,8 @@
+package com.dz;
+import com.dz.pokemons.*;
 import ru.ifmo.se.pokemon.*;
 
-public class BattleGround {
+class BattleGround {
 
     public static void main(String[] args) {
         Battle b = new Battle();
